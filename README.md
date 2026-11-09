@@ -1,2 +1,2 @@
 # Codeforces-Solutions
-My accepted Codeforces solutions.
+Welcome to my Codeforces Solutions repository!
