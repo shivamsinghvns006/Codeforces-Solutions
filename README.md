@@ -14,3 +14,14 @@ This repository contains my accepted solutions to various programming problems f
 💡 Clean and easy-to-understand code.
 
 📈 A record of my continuous learning and progress in competitive programming.
+
+
+🎯 Goals
+
+Improve logical thinking and problem-solving abilities.
+
+Strengthen Data Structures and Algorithms concepts.
+
+Practice competitive programming regularly.
+
+Prepare for coding interviews and technical placements.
