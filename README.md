@@ -25,3 +25,10 @@ Strengthen Data Structures and Algorithms concepts.
 Practice competitive programming regularly.
 
 Prepare for coding interviews and technical placements.
+
+
+🌟 My Progress
+
+Every problem I solve is another step towards becoming a better programmer.
+
+Keep Learning | Keep Practicing | Keep Coding! 💻
